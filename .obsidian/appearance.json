@@ -1,0 +1,7 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "flat-embed"
+  ]
+}

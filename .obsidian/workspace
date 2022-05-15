@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "621454f2fe116cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8389bea5d6d64d78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c39986bc3d699392",
+    "type": "split",
+    "children": [
+      {
+        "id": "79b4372eb4867b0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c5f09b6e521d2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcacf9d50bae959b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353
+  },
+  "right": {
+    "id": "13282e5b7dc8303e",
+    "type": "split",
+    "children": [
+      {
+        "id": "55516e7940a9b23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdfebd1eb1c119a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2564dad617602c16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c99f2a588806fcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md"
+              }
+            }
+          },
+          {
+            "id": "f50472f07c682f8a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "79ea865e1e89e332",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab27af655f9ef0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d7d59dbdae56934",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "17dc4b72c04ba275",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c262c1a1f3d71bd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5,
+    "collapsed": true
+  },
+  "active": "8389bea5d6d64d78",
+  "lastOpenFiles": [
+    "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+    "Fleeting/Cài đặt global ignore cho git.md",
+    "Engineering/Cài đặt FRP hỗ trợ SSL.md",
+    "Fleeting/2022-05-03_17-05.md",
+    "Fleeting/Microfrontend là gì?.md",
+    "Fleeting/Đặt tên các feature flag.md",
+    "Fleeting/Microfrontend sử dụng web component.md",
+    "Fleeting/Microfrontend sử dụng package.md",
+    "Fleeting/Federed module sử dụng webpack.md",
+    "Fleeting/2022-05-03.md"
+  ]
+}

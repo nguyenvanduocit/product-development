@@ -1,0 +1,9 @@
+.internal-embed .markdown-embed {
+    padding-left: 0;
+    padding-right: 0;
+    border-left: none;
+}
+
+.internal-embed .markdown-embed .markdown-preview-view .markdown-preview-sizer {
+    max-width: 100%;
+}
