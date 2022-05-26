@@ -2,8 +2,8 @@
   "baseFontSize": 16,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "flat-embed",
-    "graph"
+    "graph",
+    "flat-embed"
   ],
   "translucency": true
 }

@@ -1,5 +1,3 @@
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
 Có khá nhiều feature, tốt hơn ngrok, localtunnel, nhưng ở đây chỉ bắt đầu với việc sử dụng frp để expose **localhost** dưới một **subdomain** bất kỳ, có **SSL**.
 
 Cài đặt bao gồm 3 phần:

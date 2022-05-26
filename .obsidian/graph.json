@@ -1,12 +1,27 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:Source/Projects",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Evergreen",
+      "color": {
+        "a": 1,
+        "rgb": 56159
+      }
+    },
+    {
+      "query": "path:Fleeting",
+      "color": {
+        "a": 1,
+        "rgb": 16756285
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7889927734304787,
+  "scale": 1.2283043311491153,
   "close": true
 }

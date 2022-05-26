@@ -3,9 +3,12 @@
   "fileSortOrder": "byCreatedTime",
   "newFileLocation": "folder",
   "newFileFolderPath": "Source",
-  "attachmentFolderPath": "Assets",
+  "attachmentFolderPath": "Source/Assets",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "defaultViewMode": "preview",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "readableLineLength": true,
+  "foldHeading": false,
+  "foldIndent": false
 }
