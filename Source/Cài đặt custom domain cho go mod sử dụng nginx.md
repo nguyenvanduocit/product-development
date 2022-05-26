@@ -1,3 +1,5 @@
+Bạn cần có một server đã [[Cài đặt nginx|cài đặt ngix]].
+
 Point domain to nginx, và config nó.
 
 Setup Nginx: `/etc/nginx/sites-available/pkg.trueprofit.goldencloud.dev`
@@ -18,6 +20,4 @@ server {
 }
 ```
 
-Cài đặt SSL: [[Dùng ssl miễn phí với certbot]]
-
-Sử dung bằng cách: [[Go mod import private repo]]
+Cài đặt SSL:  [[Cài ssl cho nginx]]

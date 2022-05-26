@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Cài đặt custom domain cho go mod bằng aws lambda.md",
+            "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Cài đặt custom domain cho go mod bằng aws lambda.md",
+                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Cài đặt custom domain cho go mod bằng aws lambda.md",
+                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Cài đặt custom domain cho go mod bằng aws lambda.md"
+                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "fe45ffcd44b6e6ae",
   "lastOpenFiles": [
-    "Fleeting/Cài đặt custom domain cho go mod bằng aws lambda.md",
-    "Evergreen/Go mod với custom domain.md",
+    "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
     "Source/Go mod import private repo.md",
     "Source/Cài đặt custom domain cho go mod sử dụng nginx.md",
-    "Evergreen/Tại sao TrueProfit?.md",
-    "Source/Projects/ESP Home.md",
-    "Source/Tạo field dựa trên field khác.md",
-    "Source/Group by date with timezone.md",
-    "Source/Install fishshell.md",
-    "Source/Chia sẻ data giữa các microservice.md"
+    "Source/Cài ssl cho nginx.md",
+    "Source/Cài đặt FRP.md",
+    "Fleeting/Lint code Golang bằng golanglint-ci.md",
+    "Fleeting/Check commit bằng husky.md",
+    "Fleeting/Sử dụng git rebase để làm nhánh đẹp hơn merge.md",
+    "Fleeting/Đặt tên các feature flag.md",
+    "Fleeting/SPA tăng trải nghiệm của người dùng.md"
   ]
 }
