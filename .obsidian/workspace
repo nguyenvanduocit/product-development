@@ -6,15 +6,54 @@
       {
         "id": "8389bea5d6d64d78",
         "type": "leaf",
+        "dimension": 52.544704264099046,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
-            "mode": "source",
+            "file": "Engineering/Cài đặt FRP hỗ trợ SSL.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
-        }
+        },
+        "group": "2bf1b1cb4d9832ca"
+      },
+      {
+        "id": "1b48c79a61d5c699",
+        "type": "leaf",
+        "dimension": 47.45529573590097,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Engineering/Cài đặt FRP hỗ trợ SSL.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.023934061324623,
+              "close": false
+            }
+          }
+        },
+        "group": "2bf1b1cb4d9832ca"
       }
     ],
     "direction": "vertical"
@@ -54,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 289
   },
   "right": {
     "id": "13282e5b7dc8303e",
@@ -70,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+                "file": "Engineering/Cài đặt FRP hỗ trợ SSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
+                "file": "Engineering/Cài đặt FRP hỗ trợ SSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Ignote system-specific to .gitignore is a poor practice.md"
+                "file": "Engineering/Cài đặt FRP hỗ trợ SSL.md"
               }
             }
           },
@@ -150,6 +189,14 @@
             "id": "c262c1a1f3d71bd8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4bd54e642354c26",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {}
             }
@@ -164,15 +211,15 @@
   },
   "active": "8389bea5d6d64d78",
   "lastOpenFiles": [
-    "Fleeting/Ignote system-specific to .gitignore is a poor practice.md",
-    "Fleeting/Cài đặt global ignore cho git.md",
     "Engineering/Cài đặt FRP hỗ trợ SSL.md",
-    "Fleeting/2022-05-03_17-05.md",
-    "Fleeting/Microfrontend là gì?.md",
-    "Fleeting/Đặt tên các feature flag.md",
-    "Fleeting/Microfrontend sử dụng web component.md",
-    "Fleeting/Microfrontend sử dụng package.md",
-    "Fleeting/Federed module sử dụng webpack.md",
-    "Fleeting/2022-05-03.md"
+    "Engineering/Những cách để implement micfrontend.md",
+    "Source/Microfrontend là gì?.md",
+    "Fleeting/Những hạn chế của gRPC.md",
+    "Fleeting/20220526120111.md",
+    "Fleeting/20220526115703.md",
+    "Fleeting/20220526115449.md",
+    "Fleeting/2022-05-26_11-05.md",
+    "Fleeting/2022-05-24.md",
+    "Fleeting/2022-05-24_16-05.md"
   ]
 }

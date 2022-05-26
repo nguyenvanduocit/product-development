@@ -8,14 +8,14 @@ Cài đặt bao gồm 3 phần:
 2.  Cài đặt frps trên server
 3.  Cài đặt frpc trên máy local
 
-## 1. CÀI ĐẶT DOMAIN
+## 1. Cài đặt domain
 
 Tạo 2 record như sau, với value là IP của server mà bạn muốn dùng để cài đặt frp:
 
 1. `frp.duocnguyen.dev.`
 2. `*.frp.duocnguyen.dev.`
 
-## 2. CÀI ĐẶT TRÊN SERVER
+## 2. Cài đặt server
 ![[Cài đặt FRP#Cài đặt FRPS]]
 ### Cài nginx
 
@@ -23,10 +23,10 @@ Tạo 2 record như sau, với value là IP của server mà bạn muốn dùng 
 
 ![[Cài ssl cho nginx]]
 
-## 3. CÀI ĐẶT CLIENT
+# Cài đặt client
 ![[Cài đặt FRP#Cài đặt FRPC]]
 
-## SỬ DỤNG
+# Sử dụng
 
 Chạy server của mình:
 

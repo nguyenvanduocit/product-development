@@ -6,5 +6,6 @@
   "attachmentFolderPath": "Assets",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true
 }

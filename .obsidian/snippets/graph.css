@@ -1,0 +1,16 @@
+.theme-dark .graph-view.color-line {
+    color: #848484
+}
+
+.theme-dark .graph-view.color-line-highlight {
+    color: #12dba3
+}
+
+.theme-dark .graph-view.color-fill-highlight {
+    color: #12dba3
+}
+
+
+.theme-dark .graph-view.color-circle {
+    color: #00ffc1
+}
