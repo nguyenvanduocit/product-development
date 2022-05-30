@@ -30,6 +30,10 @@ Khi dùng `go get` thì go sẽ gửi request tới url kèm theo query `go-get=
 
 Ban đầu mình sử dụng nginx [^2] sau đó đổi qua lambda[^3] .
 
+![[Cài đặt custom domain cho go mod sử dụng nginx]]
+
+![[Cài đặt custom domain cho go mod bằng aws lambda]]
+
 # Sử dụng
 
 Nếu bạn server trả về private repo, thì bạn cần phải setup biết môi trường `GOPRIVATE` và chỉ định git sử dụng `ssl` thay vì `http`:
