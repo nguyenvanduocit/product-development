@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Source/Projects",
   "showTags": false,
   "showAttachments": false,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2283043311491153,
+  "scale": 1.3275680988810894,
   "close": true
 }

@@ -7,13 +7,8 @@
         "id": "fe45ffcd44b6e6ae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,15 +155,15 @@
   },
   "active": "fe45ffcd44b6e6ae",
   "lastOpenFiles": [
+    "Fleeting/20220530144845.md",
+    "Fleeting/Những hạn chế của gRPC.md",
+    "Evergreen/Tại sao TrueProfit?.md",
     "Evergreen/Custom domain cho go mod giúp migrate code đơn giản hơn.md",
-    "Source/Go mod import private repo.md",
-    "Source/Cài đặt custom domain cho go mod sử dụng nginx.md",
-    "Source/Cài ssl cho nginx.md",
-    "Source/Cài đặt FRP.md",
-    "Fleeting/Lint code Golang bằng golanglint-ci.md",
+    "Evergreen/Những cách để implement micfrontend.md",
     "Fleeting/Check commit bằng husky.md",
-    "Fleeting/Sử dụng git rebase để làm nhánh đẹp hơn merge.md",
-    "Fleeting/Đặt tên các feature flag.md",
-    "Fleeting/SPA tăng trải nghiệm của người dùng.md"
+    "Fleeting/Lint code Golang bằng golanglint-ci.md",
+    "Fleeting/Public database.md",
+    "Fleeting/2022-05-26_11-05.md",
+    "Fleeting/20220526115449.md"
   ]
 }

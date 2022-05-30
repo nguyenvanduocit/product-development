@@ -26,6 +26,8 @@ Khi dùng `go get` thì go sẽ gửi request tới url kèm theo query `go-get=
 <meta name="go-import" content="pkg.trueprofit.goldencloud.dev/internalfns git https://bitbucket.org/trueprofit/internalfns.git">
 ```
 
+Do đó ta chỉ cần làm sao cho server trả về content như vậy là được.
+
 # Cài đặt server
 
 Ban đầu mình sử dụng nginx [^2] sau đó đổi qua lambda[^3] .
@@ -35,6 +37,8 @@ Ban đầu mình sử dụng nginx [^2] sau đó đổi qua lambda[^3] .
 ![[Cài đặt custom domain cho go mod bằng aws lambda]]
 
 # Sử dụng
+
+Đồng thời  go get cũng thực hiện checksum repo bằng dịch vụ của go, nhưng private repo thì không được checksum vì vậy sẽ bị lỗi.
 
 Nếu bạn server trả về private repo, thì bạn cần phải setup biết môi trường `GOPRIVATE` và chỉ định git sử dụng `ssl` thay vì `http`:
 
